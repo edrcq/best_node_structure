@@ -1,0 +1,24 @@
+{
+  "name": "best_node_structure",
+  "version": "1.0.0",
+  "description": "A very good way to structure a nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edrcq/best_node_structure.git"
+  },
+  "keywords": [
+    "nodejs",
+    "structure",
+    "fractal"
+  ],
+  "author": "Edouard Rucquoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edrcq/best_node_structure/issues"
+  },
+  "homepage": "https://github.com/edrcq/best_node_structure#readme"
+}
